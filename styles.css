@@ -1,0 +1,29 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: lightyellow;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+/* Tables */
+
+table {
+    margin: 0 auto;
+    border: 1px solid coral;
+}
+
+thead {
+    background-color: orange;
+}
+
+td {
+    border: 1px solid coral;
+}
+
+.code {
+    font-family: monospace;
+    background-color: lightgray;
+    color: red;
+}
